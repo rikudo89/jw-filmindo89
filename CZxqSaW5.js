@@ -377,7 +377,7 @@ var jwDefaults = {
   "displaytitle": false,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.12.4/jwplayer.flash.swf",
   "height": 360,
-  "key": "6F3VczYiBlt5KT5EEgHAQy2qPsNdBaDcQzOuhQU5cFd3g9w1viWfIpxw8VVESco+",
+  "key": "AGDp5z5Zk19xP0F3t8TTPaR5ADI+gDXiTjCT3fb3yJNjrGow7VAjeehrZgg7nfvn",
   "logo": {
     "file": "https://assets-jpcust.jwpsrv.com/watermarks/YwG5F4j2.png",
     "hide": false,
@@ -393,12 +393,13 @@ var jwDefaults = {
   "repeat": false,
   "skin": {
     "controlbar": {
-      "icons": "#C41D03",
-      "iconsActive": "#FFFFFF"
+      "icons": "#FBFBFA",
+      "iconsActive": "#B1900D",
+      "text": "#FBFBFA"
     },
     "timeslider": {
-      "progress": "#C41D03",
-      "rail": "#FFFFFF"
+      "progress": "#B1900D",
+      "rail": "rgba(255, 255, 255, 0.58)"
     }
   },
   "stagevideo": false,
